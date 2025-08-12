@@ -58,3 +58,8 @@ Construir as seguintes consultas:
 ## Suporte
 
 Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
+
+## Resultado do teste
+
+[Seguir para o resultado](https://github.com/giz1975/dbchall/edit/main/RESULTADO.md)
+
